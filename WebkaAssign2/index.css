@@ -1,0 +1,176 @@
+.topnav_me {
+    text-align: right;
+    padding-top: 50px;
+    background-color: #ff685b;
+    overflow: hidden;
+    width: 100%;
+    height: 100px;
+    position: relative;	
+  
+  
+  /*Rotation of a menu bar*/
+      -moz-transform: rotate(-5deg); 
+      -ms-transform: rotate(-5deg); 
+      -webkit-transform: rotate(-5deg); 
+      -o-transform: rotate(-5deg); 
+      transform: rotate(-5deg);
+  position: absolute;
+  background: radial-gradient(circle at 28% 100%, #ff685b, #230871);
+  }
+  
+  .topnav_me a {
+    float: center;
+    color: white;
+    padding: 10px 90px;
+    text-decoration: none;
+    font-size: 35px;
+    font-family: Copperplate, Papyrus, fantasy;
+  }
+  /* Change the color of links on hover */
+  .topnav_me a:hover {
+    background-color: #230871	;
+    color: #ff685b;
+  }
+  
+  /* MORE */
+  .topnav_more {
+    text-align: right;
+    padding-top: 50px;
+    background-color: #ff685b;
+    overflow: hidden;
+    width: 100%;
+    height: 50px;
+    position: relative;	
+  
+  /*Rotation of a menu bar*/
+      -moz-transform: rotate(-5deg); 
+      -ms-transform: rotate(-5deg); 
+      -webkit-transform: rotate(-5deg); 
+      -o-transform: rotate(-5deg); 
+      transform: rotate(-5deg);
+  position: absolute;
+  background: radial-gradient(circle at 48% 30%, #ff685b, #230871);
+  }
+  
+  .topnav_more a {
+    float: center;
+    color: white;
+    padding: 10px 90px;
+    text-decoration: none;
+    font-size: 35px;
+    font-family: Copperplate, Papyrus, fantasy;
+  }
+  /* Change the color of links on hover */
+  .topnav_more a:hover {
+    background-color: #230871	;
+    color: #ff685b;
+  }
+  
+  /* Achievements */
+  .topnav_achie {
+    text-align: right;
+    padding-top: 50px;
+    background-color: #ff685b;
+    overflow: hidden;
+    width: 100%;
+    height: 50px;
+    position: relative;	
+  
+  /*Rotation of a menu bar*/
+      -moz-transform: rotate(-5deg); 
+      -ms-transform: rotate(-5deg); 
+      -webkit-transform: rotate(-5deg); 
+      -o-transform: rotate(-5deg); 
+      transform: rotate(-5deg);
+  position: absolute;
+  background: radial-gradient(circle at 63% 30%, #ff685b, #230871);
+  }
+  
+  .topnav_achie a {
+    float: center;
+    color: white;
+    padding: 10px 90px;
+    text-decoration: none;
+    font-size: 35px;
+    font-family: Copperplate, Papyrus, fantasy;
+  }
+  /* Change the color of links on hover */
+  .topnav_achie a:hover {
+    background-color: #230871	;
+    color: #ff685b;
+  }
+  
+  header{
+    position: relative;
+    height: 220px;
+  }
+  
+  a{
+    color: white;
+  }
+  
+                  /* MAIN INFO */
+  body{
+    background-color: #230871;
+  }
+  
+  .table{
+      margin-left: auto;
+      margin-right: auto;
+  }
+  
+  .tableMore{
+      width: auto;
+    border: 0px solid;
+    display: block;
+    margin-left: auto;
+      margin-right: auto;
+  }
+  
+  td:hover{
+      background-color: #230871	;
+        color: #ff685b;
+  }
+  
+  .info {
+    float: left;
+    font-family: Consolas, monaco, monospace;
+    font-size: 25px;
+    color: white;
+    align: center;
+  }
+  
+  footer{
+      font-family: Consolas, monaco, monospace;
+        display: flex;
+      justify-content: center;
+      padding: 10px;
+      width: 100%;
+      background-color: #ff685b;
+      color: white;
+      background: linear-gradient(to top,#ff685b, #230871);
+    font-size: 30px;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
